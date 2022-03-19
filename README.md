@@ -8,13 +8,13 @@
 
 ### Connect & Information:
 
-Portfolio: [<alt="Portfolio" width="26px" src="./icons/World-Icon.svg" style="padding-right:10px;" />][website]
+Portfolio: https://loguntetley.co.uk/
 &nbsp;&nbsp;
-Itch.io: [<alt="Itch.io" width="26px" src="./icons/itchio-textless-black.svg" style="padding-right:10px;" />][itchio]
+Itch.io: https://loguntetley.itch.io/
 &nbsp;&nbsp;
-CV: [<alt="CV" width="26px" src="./icons/CV-Icon.svg" style="padding-right:10px;" />][CV]
+CV: http://loguntetley.co.uk/wp-content/uploads/2022/03/Game-Development-CV.docx.pdf
 &nbsp;&nbsp;
-Linked-In: [<alt="Linked-In" width="26px" src="./icons/linkedin-Icon.svg" style="padding-right:10px;" />][linkedin]
+Linked-In: https://www.linkedin.com/in/logun-tetley-848527179/
 &nbsp;&nbsp;
 
 
