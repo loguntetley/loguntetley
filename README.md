@@ -55,4 +55,4 @@
 [DirectX]: https://docs.microsoft.com/en-us/cpp/windows/resources-for-creating-a-game-using-directx?view=msvc-170
 [Git]: https://git-scm.com/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loguntetley&layout=compact)](https://github.com/loguntetley/loguntetley/blob/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loguntetley&layout=compact?hide=shaderlab,hlsl,asp.net)](https://github.com/loguntetley/loguntetley/blob/main/README.md)
