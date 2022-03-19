@@ -10,11 +10,11 @@
 
 - Portfolio: https://loguntetley.co.uk/
 &nbsp;&nbsp;
-- Itch.io: https://loguntetley.itch.io/
+- Linked-In: https://www.linkedin.com/in/logun-tetley-848527179/
 &nbsp;&nbsp;
 - CV: http://loguntetley.co.uk/wp-content/uploads/2022/03/Game-Development-CV.docx.pdf
 &nbsp;&nbsp;
-- Linked-In: https://www.linkedin.com/in/logun-tetley-848527179/
+- Itch.io: https://loguntetley.itch.io/
 &nbsp;&nbsp;
 
 
