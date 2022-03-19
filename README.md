@@ -8,13 +8,13 @@
 
 ### Connect with me:
 
-[![website](./icons/World-Icon.svg)](http://loguntetley.co.uk/)
+[![website] width="26px" (./icons/World-Icon.svg)](http://loguntetley.co.uk/)
 &nbsp;&nbsp;
-[![website](./icons/itchio-textless-black.svg)](https://loguntetley.itch.io/)
+[![website] width="26px" (./icons/itchio-textless-black.svg)](https://loguntetley.itch.io/)
 &nbsp;&nbsp;
-[![website](./icons/CV-Icon.svg)](http://loguntetley.co.uk/wp-content/uploads/2022/03/Game-Development-CV.docx.pdf)
+[![website] width="26px" (./icons/CV-Icon.svg)](http://loguntetley.co.uk/wp-content/uploads/2022/03/Game-Development-CV.docx.pdf)
 &nbsp;&nbsp;
-[![website](./icons/linkedin-Icon.svg)](https://www.linkedin.com/in/logun-tetley-848527179/)
+[![website]width="26px" (./icons/linkedin-Icon.svg)](https://www.linkedin.com/in/logun-tetley-848527179/)
 &nbsp;&nbsp;
 
 
@@ -32,7 +32,6 @@
 [<img align="left" alt="OpenGl" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" style="padding-right:10px;" />][OpenGL]
 [<img align="left" alt="Vulkan" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Vulkan_logo.svg" style="padding-right:10px;" />][Vulkan]
 [<img align="left" alt="DirectX" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft-DirectX-Logo-wordmark.svg" style="padding-right:10px;" />][DirectX]
-[<img align="left" alt="GitHub" width="26px" src="http://www.w3.org/2000/svg" style="padding-right:10px;" />][GitHub]
 [<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" style="padding-right:10px;" />][Git]
 
 <br />
@@ -54,7 +53,6 @@
 [OpenGL]: https://www.opengl.org/
 [Vulkan]: https://www.vulkan.org/
 [DirectX]: https://docs.microsoft.com/en-us/cpp/windows/resources-for-creating-a-game-using-directx?view=msvc-170
-[GitHub]: https://github.com/
 [Git]: https://git-scm.com/
 
 
