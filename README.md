@@ -8,13 +8,13 @@
 
 ### Connect & Information:
 
-Portfolio: [<img align="left" alt="Portfolio" width="26px" src="./icons/World-Icon.svg" style="padding-right:10px;" />][website]
+Portfolio: [<alt="Portfolio" width="26px" src="./icons/World-Icon.svg" style="padding-right:10px;" />][website]
 &nbsp;&nbsp;
-Itch.io: [<img align="left" alt="Itch.io" width="26px" src="./icons/itchio-textless-black.svg" style="padding-right:10px;" />][itchio]
+Itch.io: [<alt="Itch.io" width="26px" src="./icons/itchio-textless-black.svg" style="padding-right:10px;" />][itchio]
 &nbsp;&nbsp;
-CV: [<img align="left" alt="CV" width="26px" src="./icons/CV-Icon.svg" style="padding-right:10px;" />][CV]
+CV: [<alt="CV" width="26px" src="./icons/CV-Icon.svg" style="padding-right:10px;" />][CV]
 &nbsp;&nbsp;
-Linked-In: [<img align="left" alt="Linked-In" width="26px" src="./icons/linkedin-Icon.svg" style="padding-right:10px;" />][linkedin]
+Linked-In: [<alt="Linked-In" width="26px" src="./icons/linkedin-Icon.svg" style="padding-right:10px;" />][linkedin]
 &nbsp;&nbsp;
 
 
