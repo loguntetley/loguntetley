@@ -6,15 +6,15 @@
 - 🥅 2022 Goals: Get a as a game developer 🎮
 - ⚡ Fun fact: I love warhammer 40k, Archery & board games
 
-### Connect with me:
+### Connect & Information:
 
-[![website] width="26px" (./icons/World-Icon.svg)](http://loguntetley.co.uk/)
+Portfolio: [<img align="left" alt="Portfolio" width="26px" src="./icons/World-Icon.svg" style="padding-right:10px;" />][website]
 &nbsp;&nbsp;
-[![website] width="26px" (./icons/itchio-textless-black.svg)](https://loguntetley.itch.io/)
+Itch.io: [<img align="left" alt="Itch.io" width="26px" src="./icons/itchio-textless-black.svg" style="padding-right:10px;" />][itchio]
 &nbsp;&nbsp;
-[![website] width="26px" (./icons/CV-Icon.svg)](http://loguntetley.co.uk/wp-content/uploads/2022/03/Game-Development-CV.docx.pdf)
+CV: [<img align="left" alt="CV" width="26px" src="./icons/CV-Icon.svg" style="padding-right:10px;" />][CV]
 &nbsp;&nbsp;
-[![website]width="26px" (./icons/linkedin-Icon.svg)](https://www.linkedin.com/in/logun-tetley-848527179/)
+Linked-In: [<img align="left" alt="Linked-In" width="26px" src="./icons/linkedin-Icon.svg" style="padding-right:10px;" />][linkedin]
 &nbsp;&nbsp;
 
 
