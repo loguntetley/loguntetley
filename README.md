@@ -1,9 +1,9 @@
 # Hi all, I'm Logun - soon to be a [game developer graduate][website] 🙂
 
 - 📚 Check out my portfolio: [Logun Tetley][website]!
-- 📓 I’m currently learning Vulkan 🌋
+- 📓 I’m currently studiny VR/AR content 🌋
 - 👯 I’m looking to collaborate with artist and designer for games
-- 🥅 2022 Goals: Get a job as a game developer 🎮
+- 🥅 2023 Goals: Become an even better game developer 🎮
 - ⚡ Fun fact: I love warhammer 40k, Archery & board games
 
 ### Connect & Information:
